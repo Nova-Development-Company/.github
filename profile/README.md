@@ -46,7 +46,7 @@ We are a group of passionate developers, designers, and tech enthusiasts dedicat
 
 ## Get in Touch
 We're always excited to collaborate and explore new opportunities! Feel free to reach out to us:
-- WhatsApp: +201003765335
+- WhatsApp: [+201003765335](https://wa.me/201003765335)
 - Email: info@nova-dev-company.com
 - Website: [www.nova-dev-company.com](https://www.nova-dev-company.com)
 
