@@ -27,8 +27,11 @@ To lead the way in technology innovation, empowering businesses and individuals 
 - Desktop Development
 - Graphic Design
 - Video Editing
+- Motion Graphic
+- Voice Over
 - Digital Marketing
 - Social Media Growth
+- ADS
 
 ## Meet the Team
 We are a group of passionate developers, designers, and tech enthusiasts dedicated to pushing the boundaries of what's possible. Our team members bring diverse skills and perspectives, all united by a shared goal: delivering excellence in every project.
@@ -45,11 +48,17 @@ We are a group of passionate developers, designers, and tech enthusiasts dedicat
 We're always excited to collaborate and explore new opportunities! Feel free to reach out to us:
 - WhatsApp: +201003765335
 - Email: info@nova-dev-company.com
-- Facebook: [Nova Development Company](https://www.facebook.com/novadevcompany)
-- LinkedIn: [Nova Development Company](https://www.linkedin.com/company/novadevcompany)
-- Website: [www.nova-dev-company.com](https://nova-dev-company.com)
+- Website: [www.nova-dev-company.com](https://www.nova-dev-company.com)
 
 ## Follow Us
 Stay updated with our latest projects and tech insights by following us on social media!
-- Facebook: [Nova Development Company](https://www.facebook.com/novadevcompany)
-- LinkedIn: [Nova Development Company](https://www.linkedin.com/company/novadevcompany)
+- Facebook: [Nova Development Company](https://www.facebook.com/novadevcom)
+- LinkedIn: [Nova Development Company](https://www.linkedin.com/company/novadevcom)
+- Instagram: [Nova Development Company](https://www.instagram.com/novadevcom)
+- Twitter: [Nova Development Company](https://x.com/NovaDevCom)
+- Snapchat: [Nova Development Company](https://www.snapchat.com/add/novadevcom)
+- TikTok: [Nova Development Company](https://www.tiktok.com/@novadevcom)
+- YouTube: [Nova Development Company](https://www.youtube.com/@NovaDevCom)
+- Behance: [Nova Development Company](https://www.behance.net/NovaDevCom)
+
+---
