@@ -29,6 +29,7 @@ To lead the way in technology innovation, empowering businesses and individuals 
 - Video Editing
 - Motion Graphic
 - Voice Over
+- Branding
 - Digital Marketing
 - Social Media Growth
 - ADS
